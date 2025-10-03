@@ -1,0 +1,45 @@
+# Test Vectors for Pipelined Hardware Design
+# Format: a b expected_output
+# Function: c = ((a+4)*(b+7)/3 + 120)^2
+
+# Basic test cases
+1 2 18225
+0 0 16641
+5 3 22500
+10 5 30976
+2 1 18496
+3 6 22500
+
+# Additional test cases
+7 4 20736
+4 8 22500
+6 9 23409
+8 2 19881
+
+# Edge cases
+0 1 16900
+1 0 16641
+15 10 31329
+20 15 38025
+
+# Large values
+25 20 45369
+30 25 54289
+
+# Random test cases
+12 8 26569
+18 12 34225
+22 18 41209
+27 23 51076
+
+# Boundary conditions
+100 100 75625
+0 100 133956
+100 0 140625
+1 1 16900
+
+# Additional verification points
+50 50 240100
+75 75 428544
+99 99 751689
+128 128 1093089

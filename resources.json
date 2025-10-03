@@ -1,0 +1,14 @@
+{
+    "functional_units": {
+        "adder": 2,
+        "multiplier": 1,
+        "divider": 1,
+        "logic_unit": 2,
+        "memory_unit": 1,
+        "comparator": 1
+    },
+    "pipeline_stages": 4,
+    "register_count": 32,
+    "memory_ports": 2
+}
+

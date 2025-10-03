@@ -1,0 +1,61 @@
+{
+  "nodes": {
+    "t1": {
+      "operation": "CONST",
+      "value": 4,
+      "operands": [],
+      "users": ["t2"]
+    },
+    "t2": {
+      "operation": "ADD",
+      "operands": ["a", "t1"],
+      "users": ["t5"]
+    },
+    "t3": {
+      "operation": "CONST",
+      "value": 7,
+      "operands": [],
+      "users": ["t4"]
+    },
+    "t4": {
+      "operation": "ADD",
+      "operands": ["b", "t3"],
+      "users": ["t5"]
+    },
+    "t5": {
+      "operation": "MUL",
+      "operands": ["t2", "t4"],
+      "users": ["t7"]
+    },
+    "t6": {
+      "operation": "CONST",
+      "value": 3,
+      "operands": [],
+      "users": ["t7"]
+    },
+    "t7": {
+      "operation": "DIV",
+      "operands": ["t5", "t6"],
+      "users": ["t9"]
+    },
+    "t8": {
+      "operation": "CONST",
+      "value": 120,
+      "operands": [],
+      "users": ["t9"]
+    },
+    "t9": {
+      "operation": "ADD",
+      "operands": ["t7", "t8"],
+      "users": ["t10"]
+    },
+    "t10": {
+      "operation": "MUL",
+      "operands": ["t9", "t9"],
+      "users": []
+    }
+  },
+  "inputs": ["a", "b"],
+  "outputs": ["t10"],
+  "description": "DFG for function: c = ((a+4)*(b+7)/3 + 120)^2"
+}

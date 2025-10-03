@@ -1,0 +1,16 @@
+t1_iter0 = CONST 2
+t2_iter0 = MUL 0, t1_iter0
+t3_iter0 = ADD a, t2_iter0
+t4_iter0 = STORE t3_iter0, array[0]
+t1_iter1 = CONST 2
+t2_iter1 = MUL 1, t1_iter1
+t3_iter1 = ADD a, t2_iter1
+t4_iter1 = STORE t3_iter1, array[1]
+t1_iter2 = CONST 2
+t2_iter2 = MUL 2, t1_iter2
+t3_iter2 = ADD a, t2_iter2
+t4_iter2 = STORE t3_iter2, array[2]
+t1_iter3 = CONST 2
+t2_iter3 = MUL 3, t1_iter3
+t3_iter3 = ADD a, t2_iter3
+t4_iter3 = STORE t3_iter3, array[3]

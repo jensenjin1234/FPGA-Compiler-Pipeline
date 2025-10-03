@@ -1,0 +1,469 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-pc-mingw32
+ 
+
+# Make data base, printed on Wed Jun 11 22:46:22 2025
+
+# ����
+
+# �Զ�
+<D = $(patsubst %/,%,$(dir $<))
+# �Զ�
+?F = $(notdir $?)
+# ����
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# makefile
+MAKEFLAGS = Rrqp
+# ����
+VSCODE_PROCESS_TITLE = extension-host [1-2]
+# �Զ�
+@D = $(patsubst %/,%,$(dir $@))
+# ����
+HOMEDRIVE = C:
+# �Զ�
+@F = $(notdir $@)
+# �Զ�
+^D = $(patsubst %/,%,$(dir $^))
+# makefile
+CURDIR := d:/2025spring/pa/final513
+# Ĭ��
+SHELL := sh.exe
+# ����
+WINDIR = C:\Windows
+# ����
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"D:\\FILE_MICROSOFT\\cursor\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+# ����
+ONEDRIVE = C:\Users\Andrew\OneDrive
+# �Զ�
+?D = $(patsubst %/,%,$(dir $?))
+# ����
+EFC_11688_2283032206 = 1
+# ����
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile (from `makefile', line 1)
+MAKEFILE_LIST :=  makefile
+# ����
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# ����
+TMP = C:\Users\Andrew\AppData\Local\Temp
+# ����
+PROGRAMW6432 = C:\Program Files
+# ����
+PROGRAMDATA = C:\ProgramData
+# ����
+VSCODE_CWD = D:\FILE_MICROSOFT\cursor
+# ����
+PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\PuTTY\;D:\Users\Andrew\Downloads\windows_10_cmake_Release_Graphviz-12.2.1-win64\Graphviz-12.2.1-win64\bin;D:\FILE_MICROSOFT\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\GnuWin32\bin;D:\Program Files (x86)\clang+llvm-20.1.5-x86_64-pc-windows-msvc\bin;D:\FILE_MICROSOFT\Vitis\2024.2\bin;D:\FILE_MICROSOFT\Vivado\2024.2\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Andrew\miniconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\PuTTY\;D:\Users\Andrew\Downloads\windows_10_cmake_Release_Graphviz-12.2.1-win64\Graphviz-12.2.1-win64\bin;D:\FILE_MICROSOFT\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\GnuWin32\bin;D:\Program Files (x86)\clang+llvm-20.1.5-x86_64-pc-windows-msvc\bin;D:\FILE_MICROSOFT\Vitis\2024.2\bin;D:\FILE_MICROSOFT\Vivado\2024.2\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Andrew\miniconda3\Scripts;C:\Users\Andrew\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Andrew\AppData\Local\Programs\Python\Python313\;C:\Users\Andrew\AppData\Local\Microsoft\WindowsApps;D:\FILE_MICROSOFT\cursor\resources\app\bin;C:\Users\Andrew\miniconda3;C:\Users\Andrew\miniconda3\Scripts;C:\Users\Andrew\miniconda3\Library\bin
+# ����
+EFC_11688_3789132940 = 1
+# ����
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# ����
+ZES_ENABLE_SYSMAN = 1
+# ����
+PROCESSOR_ARCHITECTURE = x86
+# ����
+USERPROFILE = C:\Users\Andrew
+# ����
+EFC_11688_1592913036 = 1
+# ����
+ALLUSERSPROFILE = C:\ProgramData
+# ����
+NUMBER_OF_PROCESSORS = 18
+# ����
+ELECTRON_RUN_AS_NODE = 1
+# Ĭ��
+.FEATURES := target-specific order-only second-expansion else-if archives
+# �Զ�
+%F = $(notdir $%)
+# ����
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_30428_HULDHDVLRDXAELRX
+# ����
+COMPUTERNAME = LAPTOP-9B1ISGAJ
+# ����
+PROGRAMFILES = C:\Program Files (x86)
+# ����
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# ����
+ASL.LOG = Destination=file
+# ����
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# ����
+USERNAME = Andrew
+# ����
+PUBLIC = C:\Users\Public
+# ����
+VSCODE_CODE_CACHE_PATH = C:\Users\Andrew\AppData\Roaming\Cursor\CachedData\53b99ce608cba35127ae3a050c1738a959750860
+# ����
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# ����
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# ����
+LOGONSERVER = \\LAPTOP-9B1ISGAJ
+# ����
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# ����
+USERDOMAIN = LAPTOP-9B1ISGAJ
+# Ĭ��
+MAKE = $(MAKE_COMMAND)
+# Ĭ��
+MAKECMDGOALS := all
+# ����
+EFC_11688_2775293581 = 1
+# ����
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# ����
+EFC_11688_1262719628 = 1
+# Ĭ��
+MAKE_VERSION := 3.81
+# makefile
+.DEFAULT_GOAL := all
+# ����
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# �Զ�
+%D = $(patsubst %/,%,$(dir $%))
+# ����
+CURSOR_TRACE_ID = 66b7dab4b3fb488b86281d31f01dd22b
+# ����
+LOCALAPPDATA = C:\Users\Andrew\AppData\Local
+# ����
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# Ĭ��
+MAKE_COMMAND := make.exe
+# ����
+PROCESSOR_ARCHITEW6432 = AMD64
+# Ĭ��
+.VARIABLES := 
+# �Զ�
+*F = $(notdir $*)
+# ����
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 170 Stepping 4, GenuineIntel
+# ����
+OS = Windows_NT
+# ����
+VSCODE_IPC_HOOK = \\.\pipe\d6387f76-1.0.0-main-sock
+# ����
+HOMEPATH = \Users\Andrew
+# ����
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# ����
+PROMPT = $P$G
+# ����
+MFLAGS = -Rrqp
+# �Զ�
+*D = $(patsubst %/,%,$(dir $*))
+# ����
+SYSTEMROOT = C:\Windows
+# �Զ�
++D = $(patsubst %/,%,$(dir $+))
+# ����
+VSCODE_L10N_BUNDLE_LOCATION = 
+# �Զ�
++F = $(notdir $+)
+# ����
+APPDATA = C:\Users\Andrew\AppData\Roaming
+# ����
+TEMP = C:\Users\Andrew\AppData\Local\Temp
+# ����
+COMSPEC = C:\Windows\system32\cmd.exe
+# Ĭ��
+MAKEFILES := 
+# �Զ�
+<F = $(notdir $<)
+# ����
+LC_ALL = C
+# �Զ�
+^F = $(notdir $^)
+# Ĭ��
+SUFFIXES := 
+# ����
+SYSTEMDRIVE = C:
+# ����
+SESSIONNAME = Console
+# ����
+PROCESSOR_REVISION = aa04
+# ����
+MAKELEVEL := 0
+# ����
+LANG = C
+# ����
+PROCESSOR_LEVEL = 6
+# ����
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# ����
+VSCODE_PID  
+= 30428
+# ����
+USERDOMAIN_ROAMINGPROFILE = LAPTOP-9B1ISGAJ
+# variable set hash-table stats:
+# Load=94/1024=9%, Rehash=0, Collisions=10/116=9%
+
+# Pattern-specific Variable Values
+
+# û�� pattern-specific ������ֵ��
+
+# Ŀ¼
+
+# C:\Program Files\Docker\Docker\resources\bin (�ؼ��� C:/Program Files/Docker/Docker/resources/bin���޸�ʱ�� 1748365883)��13 �ļ��� �� impossibilities.
+# C:\Users\Andrew\miniconda3\Scripts (�ؼ��� C:/Users/Andrew/miniconda3/Scripts���޸�ʱ�� 1749341653)��50 �ļ��� �� impossibilities.
+# C:\Windows\System32\WindowsPowerShell\v1.0\ (�ؼ��� C:/Windows/System32/WindowsPowerShell/v1.0/���޸�ʱ�� 1744284531)��34 �ļ��� �� impossibilities.
+# C:\Windows\System32\Wbem (�ؼ��� C:/Windows/System32/Wbem���޸�ʱ�� 1747471301)��143 �ļ��� �� impossibilities.
+# . (�ؼ��� d:/2025spring/pa/final513���޸�ʱ�� 1749707177)��15 �ļ��� �� impossibilities.
+# C:\Users\Andrew\AppData\Local\Programs\Python\Python313\ (�ؼ��� C:/Users/Andrew/AppData/Local/Programs/Python/Python313/���޸�ʱ�� 1744173649)��17 �ļ��� �� impossibilities.
+# C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common (�ؼ��� C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common���޸�ʱ�� 1732969247)��10 �ļ��� �� impossibilities.
+# C:\Users\Andrew\AppData\Local\Programs\Python\Python313\Scripts\ (�ؼ��� C:/Users/Andrew/AppData/Local/Programs/Python/Python313/Scripts/���޸�ʱ�� 1748365283)��10 �ļ��� �� impossibilities.
+# D:\FILE_MICROSOFT\Vivado\2024.2\bin (�ؼ��� D:/FILE_MICROSOFT/Vivado/2024.2/bin���޸�ʱ�� 1744173250)��72 �ļ��� �� impossibilities.
+# C:\Users\Andrew\AppData\Local\Microsoft\WindowsApps (�ؼ��� C:/Users/Andrew/AppData/Local/Microsoft/WindowsApps���޸�ʱ�� 1748527769)��38 �ļ��� �� impossibilities.
+# D:\FILE_MICROSOFT\cursor\resources\app\bin (�ؼ��� D:/FILE_MICROSOFT/cursor/resources/app/bin���޸�ʱ�� 1749083115)��10 �ļ��� �� impossibilities.
+# C:\Windows\System32\OpenSSH\���޷�������� stat ������
+# D:\Program Files\PuTTY\ (�ؼ��� D:/Program Files/PuTTY/���޸�ʱ�� 1744313379)��12 �ļ��� �� impossibilities.
+# C:\Windows (�ؼ��� C:/Windows���޸�ʱ�� 1749680165)��115 �ļ��� �� impossibilities.
+# D:\Program Files (x86)\clang+llvm-20.1.5-x86_64-pc-windows-msvc\bin (�ؼ��� D:/Program Files (x86)/clang+llvm-20.1.5-x86_64-pc-windows-msvc/bin���޸�ʱ�� 1747303144)��142 �ļ��� �� impossibilities.
+# C:\Users\Andrew\miniconda3 (�ؼ��� C:/Users/Andrew/miniconda3���޸�ʱ�� 1748372315)��87 �ļ��� �� impossibilities.
+# D:\FILE_MICROSOFT\bin (�ؼ��� D:/FILE_MICROSOFT/bin���޸�ʱ�� 1745837528)��3 �ļ��� �� impossibilities.
+# D:\Users\Andrew\Downloads\windows_10_cmake_Release_Graphviz-12.2.1-win64\Graphviz-12.2.1-win64\bin (�ؼ��� D:/Users/Andrew/Downloads/windows_10_cmake_Release_Graphviz-12.2.1-win64/Graphviz-12.2.1-win64/bin���޸�ʱ�� 1745417598)��103 �ļ��� �� impossibilities.
+# C:\Program Files\Git\cmd (�ؼ��� C:/Program Files/Git/cmd���޸�ʱ�� 1745839904)��13 �ļ��� �� impossibilities.
+# C:\Windows\system32 (�ؼ��� C:/Windows/system32���޸�ʱ�� 1749680164)��2983 �ļ��� �� impossibilities.
+# D:\FILE_MICROSOFT\Vitis\2024.2\bin (�ؼ��� D:/FILE_MICROSOFT/Vitis/2024.2/bin���޸�ʱ�� 1744164077)��181 �ļ��� �� impossibilities.
+# C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (�ؼ��� C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR���޸�ʱ�� 1732969265)��5 �ļ��� �� impossibilities.
+# C:\Program Files (x86)\GnuWin32\bin (�ؼ��� C:/Program Files (x86)/GnuWin32/bin���޸�ʱ�� 1745840334)��5 �ļ��� �� impossibilities.
+# C:\Users\Andrew\miniconda3\Library\bin (�ؼ��� C:/Users/Andrew/miniconda3/Library/bin���޸�ʱ�� 1748372314)��131 �ļ��� �� impossibilities.
+
+# 4192 �ļ��� �� impossibilities in 24 directories.
+
+# Implicit Rules
+
+# û����������
+
+# �ļ�
+
+setup:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 72)��
+	mkdir -p output
+	mkdir -p ir
+	mkdir -p tb
+	
+
+test-scheduler:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 50)��
+	@echo "Testing Scheduler..."
+	cd src && python scheduler.py
+	
+
+test-verilog:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 58)��
+	@echo "Testing Verilog Generator..."
+	cd src && python verilog_gen.py
+	
+
+all: run
+#  Phony target (prerequisite of .PHONY).
+#  ������Ŀ�ꡣ
+#  �����������������δ��ɡ�
+#  �ļ������ڡ�
+#  �ļ��Ѿ������¡�
+#  ��Ҫ���� (�� -q �趨)��
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/2=0%
+
+.PHONY: all run clean test help doc
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+
+# ����һ��Ŀ�꣺
+.DEFAULT:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+
+demo:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 16)��
+	@echo "Running complete demonstration..."
+	echo "1" | python main.py
+	
+
+full:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 31)��
+	@echo "Running full demonstration..."
+	echo "4" | python main.py
+	
+
+test:
+#  Phony target (prerequisite of .PHONY).
+#  �����������������δ��ɡ�
+#  �ļ������ڡ�
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 21)��
+	@echo "Testing individual components..."
+	echo "2" | python main.py
+	
+
+# ����һ��Ŀ�꣺
+makefile:
+#  �������������������ɡ�
+#  ������� 2025-06-04 18:47:38
+#  �ļ��Ѿ������¡�
+#  ���³ɹ���
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+simulate:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 63)��
+	@if command -v vivado >/dev/null 2>&1; then \
+	echo "Running Vivado simulation..."; \
+	vivado -mode batch -source simulate.tcl; \
+	else \
+	echo "Vivado not found. Install Xilinx Vivado for hardware simulation."; \
+	fi
+	
+
+help:
+#  Phony target (prerequisite of .PHONY).
+#  �����������������δ��ɡ�
+#  �ļ������ڡ�
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 78)��
+	@echo "ECEN513 Hardware Compiler Pipeline - Available targets:"
+	@echo ""
+	@echo "  make run      - Run the complete pipeline (interactive)"
+	@echo "  make demo     - Run automatic demo with professor's example"
+	@echo "  make test     - Test individual components"
+	@echo "  make doc      - Generate documentation"
+	@echo "  make full     - Run everything (demo + test + docs)"
+	@echo "  make clean    - Clean generated files"
+	@echo "  make simulate - Run Vivado simulation (if available)"
+	@echo "  make setup    - Create necessary directories"
+	@echo "  make help     - Show this help message"
+	@echo ""
+	@echo "Individual component testing:"
+	@echo "  make test-optimizer - Test DFG optimizer only"
+	@echo "  make test-scheduler - Test scheduler only"
+	@echo "  make test-unroller  - Test loop unroller only"
+	@echo "  make test-verilog   - Test Verilog generator only"
+	@echo ""
+	@echo "Usage example:"
+	@echo "  make demo     # Quick demonstration"
+	@echo "  make full     # Complete analysis" 
+	
+
+# ����һ��Ŀ�꣺
+.SUFFIXES:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+
+run:
+#  Phony target (prerequisite of .PHONY).
+#  �����������������δ��ɡ�
+#  ����/��̬ģʽ���ɣ�����
+#  �ļ������ڡ�
+#  �ļ��Ѿ������¡�
+#  ��Ҫ���� (�� -q �趨)��
+# �Զ�
+# @ := run
+# �Զ�
+# % := 
+# �Զ�
+# * := 
+# �Զ�
+# + := 
+# �Զ�
+# | := 
+# �Զ�
+# < := 
+# �Զ�
+# ^ := 
+# �Զ�
+# ? := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/10=10%
+#  Ҫִ�е����� (�ӡ�makefile������ 11)��
+	@echo "Running ECEN513 Hardware Compiler Pipeline..."
+	python main.py
+	
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  �����������������δ��ɡ�
+#  �ļ������ڡ�
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 36)��
+	@echo "Cleaning generated files..."
+	rm -rf output/
+	rm -rf __pycache__/
+	rm -rf src/__pycache__/
+	rm -f *.pyc src/*.pyc
+	rm -f tb_top.vcd
+	rm -f README.md
+	
+
+test-optimizer:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 46)��
+	@echo "Testing DFG Optimizer..."
+	cd src && python dfg_optimizer.py
+	
+
+test-unroller:
+#  �����������������δ��ɡ�
+#  �Ӳ�����޸�ʱ�䡣
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 54)��
+	@echo "Testing Loop Unroller..."
+	cd src && python unroller.py
+	
+
+doc:
+#  Phony target (prerequisite of .PHONY).
+#  �����������������δ��ɡ�
+#  �ļ������ڡ�
+#  �ļ���δ�����¡�
+#  Ҫִ�е����� (�ӡ�makefile������ 26)��
+	@echo "Generating documentation..."
+	echo "3" | python main.py
+	
+
+# files hash-table stats:
+# Load=18/1024=2%, Rehash=0, Collisions=0/38=0%
+# VPATH ����·��
+
+# û�С�vpath������·����
+
+# û��ͨ������·��(��VPATH������)��
+
+# # of st 
+rings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Wed Jun 11 22:46:22 2025
+
+ 
