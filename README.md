@@ -1,4 +1,4 @@
-# ECEN513 Final Exam - Hardware Compiler Pipeline
+# Hardware Compiler Pipeline
 
 ## Overview
 This project implements a comprehensive compiler infrastructure for hardware generation targeting FPGA with pipelining, parallelism, and loop unrolling capabilities.
